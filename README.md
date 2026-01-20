@@ -1,1 +1,2 @@
-# My First Git Practice
+# My First Git Practice<br>
+Developer - Mihir Modi
